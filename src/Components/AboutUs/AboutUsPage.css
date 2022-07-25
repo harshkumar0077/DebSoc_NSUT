@@ -1,0 +1,60 @@
+.bg{
+    background-color: black;
+}
+#wb1{
+    height:90vh;
+}
+.content{
+    margin: 5%;
+    margin-top: 2%;
+}
+.sign{
+    float:right;
+    width:25%;
+    height:auto;
+    margin-right: 5%;
+}
+.who{
+    width:60%;
+}
+.who h1{
+    color: white;
+    font-size: 2.75rem;
+    font-weight: 700;
+}
+.who p{
+    font-size: 1rem;
+}
+.our
+{
+    margin:30px;
+}
+.our h1{
+    color: white;
+    text-align: center;
+    font-size: 3.75rem;
+    font-weight: 700;
+}
+.colmail{
+    margin-top: 0%;
+}
+@media only screen and (max-width:767px)
+{
+    #wb1{
+        height:30vh;
+    }
+    .cover{
+        height: 30vh;
+    }
+    .who{
+        width:100%;
+    }
+    .who h1{
+        color: white;
+        font-size: 2rem;
+        font-weight: 600;
+    }
+    .who p{
+        font-size: 0.75rem;
+    }
+}
